@@ -3,6 +3,7 @@
     <title>JoBoHD612.de</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="icon" href="/img/jobohd612.jpg">
 </head>
 <body>
 
